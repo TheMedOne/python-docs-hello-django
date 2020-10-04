@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'medone'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b0560901fa5149a9ab609ca59e5bcb8c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_89e412de8b9a4830bdb2d865447d21dd }}
